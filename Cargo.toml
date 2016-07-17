@@ -1,0 +1,6 @@
+[package]
+name = "mdn-cli"
+version = "0.1.0"
+authors = ["Vincent Sisk <vinnysisk@gmail.com>"]
+
+[dependencies]
